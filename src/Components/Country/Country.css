@@ -1,0 +1,14 @@
+.images-style{
+    height: 250px;
+    object-fit: cover;
+    margin: auto;
+    
+}
+
+.card{
+    /* height: 500px; */
+    background-color: #EC9CD3;
+    color: white;
+    border: 3px solid #B5DEFF;
+    border-radius: 10px;
+}
